@@ -4,7 +4,7 @@ import java.util.*;
    import kafka.consumer.ConsumerIterator;
    import kafka.consumer.KafkaStream;
    import kafka.javaapi.consumer.ConsumerConnector;
-
+//THIS IS MY SECOND COMMIT//
     public class KafkaConsumer {
        private ConsumerConnector consumerConnector = null;
        private final String topic = "mytopic";
